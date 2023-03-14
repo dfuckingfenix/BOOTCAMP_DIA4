@@ -1,0 +1,33 @@
+.container-fluid {background-color: rgba(19, 173, 32, 0.884);}
+
+.card-body-Edu {flex:1 1 auto; padding:1rem 1rem; text-align: right;}
+
+.btn-primary {color:rgb(0, 0, 0);background-color:#ffffff; border-color:#ffffff; 
+              width: 110px; margin-left: 50%; margin-top: 2%; transform: translateX(-50%);}
+
+.card-link-Edu {margin-left:1rem; color: rgba(41, 39, 39, 0.582);
+                text-decoration: none;}
+
+.card-link-Edu-2 {margin-left:1rem; color: rgb(19, 173, 32);
+                text-decoration: none;}
+
+.card-text-Edu:last-child {margin-bottom:0; color: rgba(41, 39, 39, 0.582);}
+
+.fa-solid {color: rgba(41, 39, 39, 0.39);}
+
+.form-control {width: 70%; height: 90%; margin: auto; margin-top: 1%;}
+
+.mb-3-Edu{margin-bottom:2rem!important; background-color: rgba(19, 173, 32, 0.884); margin-top:2%;} 
+
+.form-label-Edu {margin-bottom:5rem; color: rgb(255, 255, 255); margin: auto; text-align: center;}
+
+.btn {margin-bottom:2rem}
+
+.col {margin-top: 2%;}
+
+.navbar-brand {margin-left: 4%;}
+
+.justify-content-end {margin-right: 2%;}
+
+.marca-Edu {background: #ffffff; color: #0000007a; font-size: 12px; padding: 4px; text-align: center;
+            font-size: 1rem; padding-bottom: 1px;}

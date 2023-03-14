@@ -2,7 +2,7 @@
 Aprendiendo a utilizar la plataforma github con programación!
 utilizar git push y git fetch
 ```branch
-git push
+git pull
 ```
 ```branch
 git fetch
